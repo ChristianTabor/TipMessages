@@ -6,7 +6,7 @@
 
     <groupId>com.github.christiantabor</groupId>
     <artifactId>TipMessages</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <name>TipMessages</name>
     <!-- FIXME change it to the project's website -->
