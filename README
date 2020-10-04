@@ -1,6 +1,3 @@
-This is the first plugin in a streaming series where I try to complete a plugin in one livestream.
-Feel free to check me out over at https://mixer.com/Epicness
-
 This is a simple plugin that sends players tips/messages that can be edited from the config file.
 Feel free to add a pull request if you have features that you think should be in the plugin,
 but we're trying to keep the plugins simple so that people can learn from them.
